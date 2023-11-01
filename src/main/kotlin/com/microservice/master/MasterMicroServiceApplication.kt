@@ -9,3 +9,4 @@ class MasterMicroServiceApplication
 fun main(args: Array<String>) {
     runApplication<MasterMicroServiceApplication>(*args)
 }
+
